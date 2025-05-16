@@ -115,15 +115,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - 👨‍💻 GitHub: [@unanimousaditya](https://github.com/unanimousaditya)
-- 🌐 Website: [Add your website if available]
-- 📧 Email: [Add your email if you want to share]
-
----
-
-## 📸 Game Screenshots
-
-![Gameplay Screenshot 1](https://github.com/unanimousaditya/Tower-Blocks-Game/raw/main/screenshot1.png)
-![Gameplay Screenshot 2](https://github.com/unanimousaditya/Tower-Blocks-Game/raw/main/screenshot2.png)
 
 ---
 
