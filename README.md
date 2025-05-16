@@ -1,7 +1,5 @@
 # 🏗️ Tower Blocks Game
 
-![Tower Blocks Game Screenshot](https://github.com/unanimousaditya/Tower-Blocks-Game/raw/main/screenshot.png)
-
 ## 🎮 [Play Now!](https://unanimousaditya.github.io/Tower-Blocks-Game/)
 
 A captivating, minimalist Tower Blocks stacking game crafted with pure HTML, CSS, and JavaScript - no frameworks or libraries! Challenge your timing and precision as you build the tallest tower possible.
